@@ -1,0 +1,29 @@
+header
+{
+    background-color: lightblue;
+    height: 10vh;
+    text-align: right;
+    margin-top: 0px;
+}
+aside
+{
+    width: 30%;
+    background-color: beige;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+div + div
+{
+    display: flex;
+}
+html, body, h1
+{
+    padding: 0px;
+    margin: 0px;
+}
+footer
+{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+}
