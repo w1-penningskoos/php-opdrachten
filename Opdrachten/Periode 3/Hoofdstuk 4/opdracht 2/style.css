@@ -12,7 +12,7 @@ aside
     margin-top: 0px;
     margin-left: 5px;
 }
-.wrapper
+div + div
 {
     display: flex;
 }
