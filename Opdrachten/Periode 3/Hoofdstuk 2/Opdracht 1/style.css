@@ -12,9 +12,11 @@ aside
     margin-top: 0px;
     margin-left: 5px;
 }
-.wrapper
+#wrapper
 {
-    display: flex;
+    position: absolute;
+    left: 35vw;
+    top: 10vh;
 }
 html, body, h1
 {

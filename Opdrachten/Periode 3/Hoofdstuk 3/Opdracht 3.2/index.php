@@ -27,7 +27,7 @@
     <?php
     $driveOn = true;
     $trafficLightColor = "Groen";
-    $ambulanceComing = true;
+    $ambulanceComing = false;
     if ($ambulanceComing == true)
     {
         $driveOn = false;

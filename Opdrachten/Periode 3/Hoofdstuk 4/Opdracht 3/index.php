@@ -33,6 +33,11 @@
 <footer>
     <?php
     include "../../Hoofdstuk 3/Opdracht 3.3/Includes/footer.php";
+    echo $task2;
+    echo $task3;
+    echo $task4;
+    echo $task5;
+    echo $task6;
     ?>
 </footer>
 </body>
