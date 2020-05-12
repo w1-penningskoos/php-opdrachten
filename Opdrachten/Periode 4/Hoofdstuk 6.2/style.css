@@ -23,17 +23,3 @@ html, body, h1
     padding: 0px;
     margin: 0px;
 }
-fieldset
-{
-    width: 10vw;
-    height: 21vh;
-}
-#fieldOne
-{
-    position: absolute;
-}
-#fieldTwo
-{
-    position: absolute;
-    left: 15vw
-}

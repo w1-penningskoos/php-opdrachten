@@ -17,11 +17,9 @@
     <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
-<?php
-
-    include($_SERVER["DOCUMENT_ROOT"] . "../php-opdrachten/Opdrachten/Periode 3/Hoofdstuk 3/Opdracht 3.3/Includes/header.php");
-
-?>
+<header>
+    <h1><?php echo "Uitwerking van PHP-opdrachten";?></h1>
+</header>
 <aside>
     <h2>Menu</h2>
     <ul>
